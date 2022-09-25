@@ -1,0 +1,42 @@
+html
+{
+  background-color: rgba(202, 255, 255, 0.366);
+}
+.LoginForm  {
+  
+  
+  width: 50%;
+  height: 75vh;
+  box-shadow: rgb(0 0 0 / 46%) 1px 1px 10px;
+  margin-top: 6%;
+  margin-left: 25%;
+  border-radius: 8px;
+  background-color: white;  
+}
+.dip{
+	text-align: center;
+	padding-top: 15%;
+}
+Button
+{
+  height:4vh;
+  width:15vh;
+  margin-top: 2vh;
+  background-color:rgb(110, 252, 252);
+  border: none;
+  border-radius: 20px;
+}
+Input
+{
+  margin-top: 2%;
+  height: 5vh;
+  width:40vh;
+  outline: 0;
+  border-width:0 0 2px;
+  border-color:rgb(110, 252, 252);
+}
+.Auth-Form{
+  
+  margin-top: 0%;
+  /* padding-right:15%; */
+}

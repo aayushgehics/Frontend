@@ -1,0 +1,17 @@
+.EditForm{
+    width: 50%;
+  height: 75vh;
+  box-shadow: rgb(0 0 0 / 46%) 1px 1px 10px;
+  margin-top: 6%;
+  margin-left: 25%;
+  border-radius: 8px;
+  background-color: white;
+}
+.Inputt{
+    margin-top: 2%;
+  height: 5vh;
+  width:20vh;
+  outline: 0;
+  border-width:0 0 2px;
+  border-color:rgb(110, 252, 252);
+}
